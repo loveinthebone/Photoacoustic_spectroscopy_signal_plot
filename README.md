@@ -1,2 +1,3 @@
 # Photoacoustic_spectroscopy_signal_plot
 Simulated second harmonic photoacoustic signal
+Considering both wavelength modulation and intensity modulation
